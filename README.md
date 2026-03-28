@@ -61,6 +61,8 @@ Steps:
 
 <img width="847" height="1280" alt="image" src="https://github.com/user-attachments/assets/599a030d-f049-4eb4-8fd5-956b2a26d875" />
 
+<img width="969" height="731" alt="image" src="https://github.com/user-attachments/assets/aa962d02-49ba-4496-a033-f26e17c43ce2" />
+
 ---
 
 ## Report
@@ -71,5 +73,11 @@ Your report should include:
   - BER analyzer output  
   - Eye diagram  
 - Discussion of differences between analytical and simulation results.  
+
+---
+
+## Result
+
+Thus the Experiment was successfully completed and the output is verified.
 
 ---
